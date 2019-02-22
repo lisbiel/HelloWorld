@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ciao mondo</string>
+    <string name="welcome">" Benvenuti nello sviluppo"</string>
+    <string name="deitel_logo">Il doppio pollice di Deitel su</string>
+</resources>

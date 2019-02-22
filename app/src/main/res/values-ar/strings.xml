@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">مرحبًا بك في تطوير تطبيقات Android</string>
+    <string name="app_name">مرحبا بالعالم</string>
+    <string name="deitel_logo">تضاعف أخطاء Deitel\'s bug</string>
+</resources>

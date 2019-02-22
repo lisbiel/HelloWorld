@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Γειά σου Κόσμε"</string>
+    <string name="welcome">" Καλώς ήρθατε στο Android App Development"</string>
+    <string name="deitel_logo">Το διπλό bug του Deitel μπλοκάρει</string>
+</resources>
